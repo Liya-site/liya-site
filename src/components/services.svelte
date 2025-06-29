@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="zxx">
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Services - RedTheme - IT Website Template</title>
-  <meta content="" name="RedTheme - IT Website Template">
-  <meta name="description"
-    content="RedTheme - IT Website Template - IT Solutions & Business Services Multipurpose Responsive HTML5 Bootstrap5 Website Template">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta content="" name="ZRTHEMES">
-
-  <!-- Favicons -->
-  <link href="assets/images/favicon.png" rel="icon">
-  <link href="assets/images/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-  <link
-    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&amp;display=swap"
-    rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&amp;display=swap" rel="stylesheet">
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/flaticons/flaticon.css" rel="stylesheet">
-  <link href="assets/stylesheets/font-awesome.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <!-- Main CSS File -->
-  <link href="assets/stylesheets/styles.css" rel="stylesheet">
-
-</head>
-
-<body data-aos-easing="ease-in-out" data-aos-duration="1000" data-aos-delay="0">
 
   <header id="header" class="header d-flex align-items-center sticked stikcy-menu">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
@@ -300,22 +262,3 @@
 
   <div id="preloader"></div>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/javascripts/jquery.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/javascripts/plugins.js"></script>
-  <script src="assets/javascripts/purecounter_vanilla.js"></script>
-  <script src="assets/javascripts/validator.min.js"></script>
-  <script src="assets/javascripts/contactform.js"></script>
-  <script src="assets/javascripts/particles.min.js"></script>
-  <script src="assets/javascripts/script.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/javascripts/main.js"></script>
-
-</body>
-
-</html>
