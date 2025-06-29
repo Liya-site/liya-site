@@ -52,9 +52,10 @@
     <div class="container position-relative">
       <div class="row gy-5 aos-init aos-animate">
         <div class="col-lg-6 d-flex flex-column justify-content-center text-left caption">
-          <h1 data-aos="fade-up">IT Solutions and Business Services for Success</h1>
-          <h2 data-aos="fade-up">Harness the power of technology to boost productivity, optimize operations, and achieve
-            your business goals.</h2>
+          <h1 data-aos="fade-up">Full-Service Business Development and digital growth — From Product Creation to Social Media</h1>
+          <h2 data-aos="fade-up">
+            We help you build your digital product, launch your brand, and manage your social media — all in one place.
+          </h2>
           <div class="social" data-aos="fade-up">
             <a href=""><i class="bi bi-twitter-x"></i></a>
             <a href=""><i class="bi bi-facebook"></i></a>
@@ -66,39 +67,31 @@
             <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Get Started<span></span></a>
           </div>
         </div>
-        <div class="col-lg-6 d-flex flex-column align-items-right justify-content-center"><img
-            src="assets/images/hero-img.png" class="img-fluid rounded-4 mb-4 mt-m70" alt=""></div>
-      </div>
+        <div class="col-lg-6 d-flex justify-content-center hero-photo">
+          <img src="assets/images/LiyaHt.svg" class="img-fluid rounded-4" alt="">
+        </div>          
     </div>
   </section>
   <!-- End Hero Section -->
 
-  <!-- Start Service Section -->
+  <!-- Start 1 Service Section -->
   <div id="services" class="section">
     <div class="top-icon-box position-relative">
       <div class="container position-relative">
         <div class="row gy-4">
 
+          <div class="section-header" data-aos="fade-up">
+            <h2>If Your Goal Is Brand Awareness, Personal Brand Growth, and Reach — Here’s How We Help on Social Media</h2>
+            <p>We create, publish and grow your brand across all platforms</p>
+          </div>
+
           <div class="col-xl-4 col-md-6" data-aos="fade-right">
             <a href="single-service.html">
               <div class="icon-box">
                 <div class="icon"><i class="flaticon-001-edit-tools"></i></div>
-                <h4 class="title">Apps Design</h4>
-                <p>Application design is the process of creating a digital solution that meets the needs of users. It
-                  involves understanding user needs, designing user interfaces, and developing code.</p>
-                <span></span>
-              </div>
-            </a>
-          </div>
-          <!--End Icon Box -->
-
-          <div class="col-xl-4 col-md-6" data-aos="fade-up">
-            <a href="single-service.html">
-              <div class="icon-box">
-                <div class="icon"><i class="flaticon-031-database"></i></div>
-                <h4 class="title">Web Hosting</h4>
-                <p>Web hosting is the process of storing a website on a server so that it can be accessed by visitors.
-                  It involves renting space on a server, uploading files, and maintaining the website.</p>
+                <h4 class="title">Content Planning & Strategy</h4>
+                <p>We analyze your existing social media (or build it from scratch), create a unified brand concept, design your profile, and prepare a content plan tailored to your goals.
+                </p>
                 <span></span>
               </div>
             </a>
@@ -109,9 +102,9 @@
             <a href="single-service.html">
               <div class="icon-box">
                 <div class="icon"><i class="flaticon-090-advertising"></i></div>
-                <h4 class="title">Social Media</h4>
-                <p>Social media is a group of online applications that enable users to create and share content. It is
-                  a powerful tool for businesses to connect with customers, promote products and services.</p>
+                <h4 class="title">Video Editing & Publishing</h4>
+                <p>We edit videos with music, captions, and copywriting, prepare clear filming scripts, and support you through shooting. Daily publishing and revisions until the result meets your expectations.
+                </p>
                 <span></span>
               </div>
             </a>
@@ -122,9 +115,57 @@
             <a href="single-service.html">
               <div class="icon-box">
                 <div class="icon"><i class="flaticon-075-earth-globe"></i></div>
-                <h4 class="title">SEO Optimization</h4>
-                <p>SEO optimization is the process of improving a website's ranking in search engine results pages. It
-                  involves optimizing website content, building backlinks, and using relevant keywords.</p>
+                <h4 class="title">Audience Engagement & Support</h4>
+                <p>We handle comments, DMs, and audience questions to build real connections. Weekly performance reports keep you informed on growth and engagement.
+                </p>
+                <span></span>
+              </div>
+            </a>
+          </div>
+          <!--End Icon Box -->
+          <div class="d-flex justify-content-center mt-4">
+            <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Explore Packages<span></span></a>
+          </div>          
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End 1 Service Section -->
+
+   <!-- Start 2 Service Section -->
+   <div id="services" class="section">
+    <div class="top-icon-box position-relative">
+      <div class="container position-relative">
+        <div class="row gy-4">
+
+          <div class="section-header" data-aos="fade-up">
+            <h2>If Your Goal Is Product Development, Packaging, and a Fast Launch — Here’s How We Help Digitally
+            </h2>
+            <p>We help you develop, package, and launch your digital product — fast and effectively
+            </p>
+          </div>
+
+          <div class="col-xl-4 col-md-6" data-aos="fade-right">
+            <a href="single-service.html">
+              <div class="icon-box">
+                <div class="icon"><i class="flaticon-001-edit-tools"></i></div>
+                <h4 class="title">Personal Brand Development</h4>
+                <p>We guide you through product creation and branding via several strategic sessions, helping shape your offers and brand identity.
+                </p>
+                <span></span>
+              </div>
+            </a>
+          </div>
+          <!--End Icon Box -->
+
+          <div class="col-xl-4 col-md-6" data-aos="fade-up">
+            <a href="single-service.html">
+              <div class="icon-box">
+                <div class="icon"><i class="flaticon-031-database"></i></div>
+                <h4 class="title">Website Creation & Product Launch
+                </h4>
+                <p>We build your website in just a few days with full payment integration and mobile adaptation — using HTML, Svelte, or, on request, builders like Wix or Tilda. Ready to launch your product fast.
+                </p>
                 <span></span>
               </div>
             </a>
@@ -135,33 +176,23 @@
             <a href="single-service.html">
               <div class="icon-box">
                 <div class="icon"><i class="flaticon-132-edit-tools"></i></div>
-                <h4 class="title">IT Solutions</h4>
-                <p>A cloud server is a virtual server that is hosted in the cloud. It is a cost-effective and scalable
-                  solution for businesses that need to store data and run applications.</p>
+                <h4 class="title">Strategy Development</h4>
+                <p>We create a clear, step-by-step strategy for your goals and product launch, designed to cover up to six months of execution.
+                </p>
                 <span></span>
               </div>
             </a>
           </div>
           <!--End Icon Box -->
-
-          <div class="col-xl-4 col-md-6" data-aos="fade-left">
-            <a href="single-service.html">
-              <div class="icon-box">
-                <div class="icon"><i class="flaticon-023-code"></i></div>
-                <h4 class="title">Data Secuity</h4>
-                <p>Protecting data from unauthorized access, disclosure It is important for businesses to protect
-                  their data to avoid financial losses, legal liability, and damage to their reputation.</p>
-                <span></span>
-              </div>
-            </a>
-          </div>
-          <!--End Icon Box -->
-
+          <div class="d-flex justify-content-center mt-4">
+            <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Explore Packages<span></span></a>
+          </div>          
         </div>
       </div>
     </div>
   </div>
-  <!-- End Service Section -->
+  <!-- End 2 Service Section -->
+
 
   <!-- About -->
   <section id="about" class="about">
