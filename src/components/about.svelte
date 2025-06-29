@@ -34,7 +34,7 @@
 
 <body data-aos-easing="ease-in-out" data-aos-duration="1000" data-aos-delay="0"> -->
 <!-- Start Preloader -->
-<div id="preloader"></div>
+<!-- <div id="preloader"></div> -->
 <!-- End Preloader -->
 
 <!-- Start Header -->

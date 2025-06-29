@@ -1,5 +1,5 @@
   <!-- Start Preloader -->
-  <div id="preloader"></div>
+  <!-- <div id="preloader"></div> -->
   <!-- End Preloader -->
 
   <!-- Start Header -->
@@ -792,6 +792,8 @@
   </footer>
   <!-- End Footer -->
 
+  <!-- svelte-ignore a11y_consider_explicit_label -->
+  <!-- svelte-ignore a11y_invalid_attribute -->
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center active">
     <i class="bi bi-arrow-up-short"></i>
   </a>
