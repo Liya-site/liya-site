@@ -64,7 +64,7 @@
           </div>
           <div class="d-flex justify-content-start">
             <a href="#contact" class="default-theme-btn-one mr-20" data-aos="fade-up">Contact Us<span></span></a>
-            <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Get Started<span></span></a>
+            <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Start Your Project<span></span></a>
           </div>
         </div>
         <div class="col-lg-6 d-flex justify-content-center hero-photo">
@@ -196,9 +196,108 @@
       <div class="swiper-pagination"></div>
     </div>
   </div>
-  <div class="d-flex justify-content-center mt-4">
-      <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Explore Packages<span></span></a>
-  </div>
+
+    <!-- Featured -->
+    <section id="featured" class="featured">
+      <div class="container">
+        <div class="section-header" data-aos="fade-up">
+          <h2>🚀 What Happens After We Start Working Together:</h2>
+          <p>Step-by-Step Execution by Our Team</p>
+        </div>
+        <div class="row">
+  
+          <!-- start  skills -->
+          <div class="col-md-5 center">
+            <div class="list-center-wrap" data-aos="fade-up">
+              <div class="img-fluid">
+                <img src="assets/images/about.jpg" alt="icon">
+              </div>
+            </div>
+          </div>
+          <!-- end  skills -->
+  
+          <!-- start  left -->
+          <div class="col-md-7 left">
+            <div class="row">
+              <div class="col-md-12">
+                <p>Delegate your business <span class="big-text">and social media</span> to a dedicated team — <span class="small-text">we’ll take care of everything</span> from strategy to daily publishing.</p>
+              </div>
+              <div class="col-lg-6 left">
+                <div class="list-wrap" data-aos="fade-up">
+                  <div class="icon">
+                    <img src="assets/images/icons/icon-1.svg" alt="icon">
+                  </div>
+                  <div class="description">
+                    <h4>Full-Service <span style="color: #c00113;">Launch</span></h4>
+                    <p>We design your profile and brand identity from day one — including positioning, and a visual style tailored.
+                    </p>
+                  </div>
+                </div>
+  
+                <div class="list-wrap" data-aos="fade-up">
+                  <div class="icon">
+                    <img src="assets/images/icons/icon-2.svg" alt="icon">
+                  </div>
+                  <div class="description">
+                    <h4><span style="color: #c00113;">Content Plan</span></h4>
+                    <p>	Unique ideas + links for TikTok, Instagram, and YouTube (other platforms available on request).</p>
+                  </div>
+                </div>
+  
+                <div class="list-wrap" data-aos="fade-up">
+                  <div class="icon">
+                    <img src="assets/images/icons/icon-3.svg" alt="icon">
+                  </div>
+                  <div class="description">
+                    <h4>Publishing <span style="color: #c00113;">Management</span></h4>
+                    <p>We take over daily posting across platforms. Daily posting to Reels / Shorts / TikTok.</p>
+                  </div>
+                </div>
+              </div>
+              <!-- end  left -->
+  
+              <!-- start  right -->
+              <div class="col-lg-6 right">
+                <div class="list-wrap" data-aos="fade-up">
+                  <div class="icon">
+                    <img src="assets/images/icons/icon-4.svg" alt="icon">
+                  </div>
+                  <div class="description">
+                    <h4><span style="color: #c00113;">Filming</span> Instructions</h4>
+                    <p>Clear scenarios and filming guides tailored to you.</p>
+                  </div>
+                </div>
+  
+                <div class="list-wrap" data-aos="fade-up">
+                  <div class="icon">
+                    <img src="assets/images/icons/icon-5.svg" alt="icon">
+                  </div>
+                  <div class="description">
+                    <h4><span style="color: #c00113;">Scripting & Editing</span></h4>
+                    <p>Video scripts, editing, text writing, and audio selection.</p>
+                  </div>
+                </div>
+  
+                <div class="list-wrap" data-aos="fade-up">
+                  <div class="icon">
+                    <img src="assets/images/icons/icon-6.svg" alt="icon">
+                  </div>
+                  <div class="description">
+                    <h4><span style="color: #c00113;">Weekly</span> Reporting</h4>
+                    <p>Progress reports in a dedicated team chat. Results, insights, and next steps to keep momentum going.</p>
+                  </div>
+                </div>
+              </div>
+              <!-- end  right -->
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="d-flex justify-content-center mt-4">
+        <a href="#services" class="default-theme-btn-two" data-aos="fade-up">View Pricing Plans<span></span></a>
+    </div>
+    </section>
+    <!-- Featured -->
 </section>
 <!-- End Testimonials Section -->
 
@@ -259,13 +358,13 @@
     </div>
   </div>
   <!-- End 2 Service Section -->
-
+  
   <!--  Testimonials Digital Section  -->
   <section id="testimonialsdigital" class="testimonialsdigital">
     <div class="container" data-aos="fade-up">
 
     <div class="section-header">
-      <h2>See the Results of Our Work — Smart Social Growth</h2>
+      <h2>Web Projects Delivered Fast — Full Sites in Days</h2>
     </div>
 
     <div class="slides-digital swiper" data-aos="fade-up" data-aos-delay="100">
@@ -274,13 +373,14 @@
         <div class="swiper-slide">
           <div class="testimonial-wrap">
             <div class="testimonial-item text-center">
-              <img src="assets/images/testimonials/liyahttt.png" class="testimonial-img mb-3" alt="Liya HT">
-              <h3>@liya.ht</h3>
-              <h4>TikTok</h4>
-              <p>
+              <img src="assets/images/testimonials/simvai.png" class="testimonial-img mb-3" alt="Liya HT">
+              <h3>simvai.com</h3>
+              <div class="stars">
+                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                  class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+              </div>              <p>
                 <i class="bi bi-quote quote-icon-left"></i>
-                Built my personal TikTok to 200k+ in one year using our daily content strategy.
-                <i class="bi bi-quote quote-icon-right"></i>
+                A clean, 2-page website with a fully integrated payment system delivered in just 3 days.                <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
           </div>
@@ -290,17 +390,15 @@
         <div class="swiper-slide">
           <div class="testimonial-wrap">
             <div class="testimonial-item text-center">
-              <img src="assets/images/testimonials/investmentclubunic.png" class="testimonial-img mb-3" alt="Liya HT">
-              <h3>@investment.club.unic</h3>
-              <h4>Instagram</h4>
+              <img src="assets/images/testimonials/fintechme.png" class="testimonial-img mb-3" alt="Liya HT">
+              <h3>fintechme.pro</h3>
               <div class="stars">
                 <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                   class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
               </div>
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
-                Consistently high engagement in our niche investment community.                <i class="bi bi-quote quote-icon-right"></i>
-              </p>
+                From design to full content writing. The 6-page site was built and launched in just one week.</p>
             </div>
           </div>
         </div>
@@ -310,28 +408,43 @@
     </div>
   </div>
   <div class="d-flex justify-content-center mt-4">
-      <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Explore Packages<span></span></a>
+      <a href="#services" class="default-theme-btn-two" data-aos="fade-up">See Full Services<span></span></a>
   </div>
 </section>
 <!-- End Testimonials Digital Section -->
 
+  <!--  Call To Action Section  -->
+  <section id="call-to-action" class="call-to-action">
+    <div class="container text-left aos-init aos-animate" data-aos="zoom-out">
+      <div class="row align-items-center">
+        <div class="col-lg-9">
+          <h3>Still Have Questions? Book a free consultation with our team — we’ll help you find the best solution for your project.</h3>
+          <!-- <p>We pride ourselves with our ability to perform and deliver results. Use the form below to discuss your project needs with our team, we will get back asap</p>-->
+        </div>
+        <div class="col-lg-3 text-right">
+          <a class="default-theme-btn-one" href="mailto:info@example.com">Conatct Us <span></span></a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Call To Action Section -->
 
-  <!-- About -->
+  <!-- About
   <section id="about" class="about">
     <div class="container">
       <div class="section-header" data-aos="fade-up">
         <h2>About Our Company</h2>
         <p>We're Passionate About Helping Businesses Thrive with Technology</p>
       </div>
-      <div class="row">
+      <div class="row">-->
 
         <!-- start  skills -->
-        <div class="col-md-6 center">
+         <!--<div class="col-md-6 center">
           <p>At <span class="big-text">RedTheme</span> <span class="small-text">we are passionate about providing
               businesses with the IT solutions they need to succeed</span> in today's competitive marketplace. We
             offer a comprehensive suite of services, from IT infrastructure and security to cloud computing and
             business applications, all delivered with the expertise and dedication you deserve.</p>
-          <div data-aos="fade-up">
+          <div data-aos="fade-up"> -->
             <!-- <ul id="skills">
               <li>
                 HTML
@@ -365,13 +478,13 @@
                   </span>
                 </div>
               </li>
-            </ul> -->
+            </ul> 
           </div>
           <a href="#contact" class="default-theme-btn-two">Contact Us <span></span></a>
         </div>
-        <!-- end  skills -->
+        end  skills
 
-        <!-- start  left -->
+        start  left 
         <div class="col-md-6">
           <div class="list-center-wrap">
             <img src="assets/images/skills.jpg" alt="icon">
@@ -382,114 +495,9 @@
 
     </div>
   </section>
-  <!-- About -->
+  About -->
 
-  <!-- Featured -->
-  <section id="featured" class="featured">
-    <div class="container">
-      <div class="section-header" data-aos="fade-up">
-        <h2>Why Choose Us?</h2>
-        <p>Your Business's IT Success is Our Driving Force</p>
-      </div>
-      <div class="row">
-
-        <!-- start  skills -->
-        <div class="col-md-5 center">
-          <div class="list-center-wrap" data-aos="fade-up">
-            <div class="img-fluid">
-              <img src="assets/images/about.jpg" alt="icon">
-            </div>
-          </div>
-        </div>
-        <!-- end  skills -->
-
-        <!-- start  left -->
-        <div class="col-md-7 left">
-          <div class="row">
-            <div class="col-md-12">
-              <p>In today's <span class="big-text">rapidly evolving technology</span> landscape, choosing the right IT
-                partner is crucial for your business success. At <span class="small-text">RedTheme</span>, we stand
-                out from the crowd with our unwavering commitment to quality, expertise, and customer satisfaction.
-                Here are just a few reasons why you should choose us:</p>
-            </div>
-            <div class="col-lg-6 left">
-              <div class="list-wrap" data-aos="fade-up">
-                <div class="icon">
-                  <img src="assets/images/icons/icon-1.svg" alt="icon">
-                </div>
-                <div class="description">
-                  <h4>Expertise,<span style="color: #c00113;"> Experience</span></h4>
-                  <p>Deep knowledge and skill in a particular area. Practical knowledge gained from work or other
-                    activities.</p>
-                </div>
-              </div>
-
-              <div class="list-wrap" data-aos="fade-up">
-                <div class="icon">
-                  <img src="assets/images/icons/icon-2.svg" alt="icon">
-                </div>
-                <div class="description">
-                  <h4>Quality<span style="color: #c00113;"> Products</span></h4>
-                  <p>A high standard of performance or excellence. Goods or services that are offered for sale</p>
-                </div>
-              </div>
-
-              <div class="list-wrap" data-aos="fade-up">
-                <div class="icon">
-                  <img src="assets/images/icons/icon-3.svg" alt="icon">
-                </div>
-                <div class="description">
-                  <h4>Customer<span style="color: #c00113;"> Focused</span></h4>
-                  <p>A person who buys or uses goods or services. Directed or concentrated towards a particular
-                    object.</p>
-                </div>
-              </div>
-            </div>
-            <!-- end  left -->
-
-            <!-- start  right -->
-            <div class="col-lg-6 right">
-              <div class="list-wrap" data-aos="fade-up">
-                <div class="icon">
-                  <img src="assets/images/icons/icon-4.svg" alt="icon">
-                </div>
-                <div class="description">
-                  <h4><span style="color: #c00113;">Competitive </span>Pricing</h4>
-                  <p>Able to match or surpass the offerings of competitors. The cost of a product or service</p>
-                </div>
-              </div>
-
-              <div class="list-wrap" data-aos="fade-up">
-                <div class="icon">
-                  <img src="assets/images/icons/icon-5.svg" alt="icon">
-                </div>
-                <div class="description">
-                  <h4><span style="color: #c00113;">Timely </span>Delivery</h4>
-                  <p>Done or happening at the right time. The act of handing over something to someone</p>
-                </div>
-              </div>
-
-              <div class="list-wrap" data-aos="fade-up">
-                <div class="icon">
-                  <img src="assets/images/icons/icon-6.svg" alt="icon">
-                </div>
-                <div class="description">
-                  <h4><span style="color: #c00113;">24/7 </span>Support</h4>
-                  <p>Available 24 hours a day, 7 days a week. Assistance or help</p>
-                </div>
-              </div>
-            </div>
-            <!-- end  right -->
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </section>
-  <!-- Featured -->
-
-  <!--  Start Counter Section  -->
+  <!--  Start Counter Section 
   <div id="stats-counter" class="stats-counter section">
     <div class="container" data-aos="fade-up">
       <div class="row gy-4 align-items-center">
@@ -499,30 +507,30 @@
             <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Happy Clients</p>
-          </div><!-- End Stats Item -->
-        </div>
+          </div> End Stats Item -->
+        <!-- </div>
         <div class="col-lg-4">
           <div class="stats-item d-flex flex-column align-items-center">
             <div class="icon"><i class="flaticon-060-award"></i></div>
             <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Completed Projects</p>
-          </div><!-- End Stats Item -->
-        </div>
+          </div>End Stats Item -->
+        <!-- </div>
         <div class="col-lg-4">
           <div class="stats-item d-flex flex-column align-items-center">
             <div class="icon"><i class="flaticon-122-circular-clock"></i></div>
             <span data-purecounter-start="0" data-purecounter-end="453" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Hours Of Support</p>
-          </div><!-- End Stats Item -->
-        </div>
+          </div> End Stats Item -->
+        <!-- </div>
       </div>
     </div>
   </div>
-  <!--  End Counter Section  -->
+  End Counter Section  -->
 
-  <!--  Testimonials Section  -->
+  <!--  Testimonials Section
   <section id="testimonials" class="testimonials">
     <div class="container" data-aos="fade-up">
 
@@ -556,7 +564,7 @@
                 </p>
               </div>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-wrap">
@@ -580,7 +588,7 @@
                 </p>
               </div>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-wrap">
@@ -604,7 +612,7 @@
                 </p>
               </div>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
 
           <div class="swiper-slide">
             <div class="testimonial-wrap">
@@ -628,15 +636,15 @@
                 </p>
               </div>
             </div>
-          </div><!-- End testimonial item -->
+          </div>
         </div>
         <div class="swiper-pagination"></div>
       </div>
     </div>
   </section>
-  <!-- End Testimonials Section -->
+ End Testimonials Section -->
 
-  <!--  Our Team Section  -->
+  <!--  Our Team Section
   <section id="team" class="team sections-bg">
     <div class="container aos-init aos-animate" data-aos="fade-up">
 
@@ -659,9 +667,9 @@
               <a href=""><i class="bi bi-instagram"></i></a>
             </div>
           </div>
-        </div><!-- End Team Member -->
+        </div>End Team Member -->
 
-        <div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+        <!--<div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
           <div class="member">
             <img src="assets/images/team/team-2.jpg" class="img-fluid" alt="">
             <h4>Sani Awesome</h4>
@@ -673,9 +681,9 @@
               <a href=""><i class="bi bi-instagram"></i></a>
             </div>
           </div>
-        </div><!-- End Team Member -->
+        </div> End Team Member -->
 
-        <div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+        <!--<div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
           <div class="member">
             <img src="assets/images/team/team-3.jpg" class="img-fluid" alt="">
             <h4>Andrio Willi</h4>
@@ -687,9 +695,9 @@
               <a href=""><i class="bi bi-instagram"></i></a>
             </div>
           </div>
-        </div><!-- End Team Member -->
+        </div> End Team Member -->
 
-        <div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+        <!--<div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
           <div class="member">
             <img src="assets/images/team/team-4.jpg" class="img-fluid" alt="">
             <h4>Afa Jonson</h4>
@@ -701,31 +709,15 @@
               <a href=""><i class="bi bi-instagram"></i></a>
             </div>
           </div>
-        </div><!-- End Team Member -->
+        </div>End Team Member -->
 
-      </div>
+      <!--</div>
 
     </div>
   </section>
-  <!-- End Our Team Section -->
+  End Our Team Section -->
 
-  <!--  Call To Action Section  -->
-  <section id="call-to-action" class="call-to-action">
-    <div class="container text-left aos-init aos-animate" data-aos="zoom-out">
-      <div class="row align-items-center">
-        <div class="col-lg-9">
-          <h3>Let's Discuss your Projects</h3>
-          <!-- <p>We pride ourselves with our ability to perform and deliver results. Use the form below to discuss your project needs with our team, we will get back asap</p>-->
-        </div>
-        <div class="col-lg-3 text-right">
-          <a class="default-theme-btn-one" href="mailto:info@example.com">Conatct Us <span></span></a>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End Call To Action Section -->
-
-  <!--  Recent Blog Posts Section  -->
+  <!--  Recent Blog Posts Section 
   <section id="recent-posts" class="recent-posts sections-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-header">
@@ -752,9 +744,9 @@
             </div>
             <p class="text-4-line">To host a website on any hosting provider, you need to follow these steps: 1 Choose a hosting provider and sign up for a hosting plan. 2 Register a domain name </p>
           </article>
-        </div><!-- End post list item -->
+        </div> End post list item -->
 
-        <div class="col-lg-4">
+       <!-- <div class="col-lg-4">
           <article>
             <div class="post-img">
               <img src="assets/images/blog/blog-2.jpg" alt="" class="img-fluid">
@@ -773,9 +765,9 @@
             </div>
             <p class="text-4-line">Google AdWords add-ons are third-party tools and services that can extend the functionality of the AdWords platform. They can help you with tasks such as managing your campaigns, tracking your performance,</p>
           </article>
-        </div><!-- End post list item -->
+           End post list item -->
 
-        <div class="col-lg-4">
+        <!--<div class="col-lg-4">
           <article>
             <div class="post-img">
               <img src="assets/images/blog/blog-3.jpg" alt="" class="img-fluid">
@@ -794,15 +786,15 @@
             </div>
             <p class="text-4-line">Digital marketing is the use of digital channels to promote or market products or services to consumers and businesses. It includes a wide range of activities, such as search engine optimization (SEO), pay-per-click (PPC) advertising, social media marketing, content marketing, and email marketing.</p>
           </article>
-        </div><!-- End post list item -->
+        </div>End post list item -->
 
-      </div><!-- End recent posts list -->
+      <!--</div> End recent posts list -->
 
-    </div>
+    <!-- </div>
   </section>
-  <!-- End Recent Blog Posts Section -->
+  End Recent Blog Posts Section -->
 
-  <!-- Downloadd App Start -->
+  <!-- Downloadd App Start 
   <div id="download-app" class="download-app-promo">
     <div class="download-app-promo-text">
       <div class="download-app-promo-text__tagline">The best way to get news on the go</div>
@@ -821,10 +813,10 @@
       </div>
     </div>
   </div>
-  <!-- Downloadd App End -->
+  Downloadd App End -->
 
 
-  <!--  Clients Section  -->
+  <!--  Clients Section 
   <div id="clients" class="clients section">
     <div class="container" data-aos="zoom-out">
 
@@ -843,7 +835,7 @@
 
     </div>
   </div>
-  <!-- End Clients Section -->
+ End Clients Section -->
 
   <!--  Footer  -->
   <footer id="footer" class="footer-section">

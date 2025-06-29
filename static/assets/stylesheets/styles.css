@@ -1064,7 +1064,7 @@ section {
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
 }
 .list-wrap:nth-child(3),
@@ -1467,10 +1467,12 @@ section {
 }
 
 .testimonialsdigital .testimonial-img {
-  width: 220px;
+  width: 100%;
+  max-width: 640px;   /* Увеличь ширину сайта */
+  height: auto;       /* Поддерживает пропорции */
   margin: 0 auto 15px;
   border-radius: 10px;
-  object-fit: cover;
+  object-fit: contain;  /* Важно для сайтов */
 }
 
 .testimonialsdigital .testimonial-item h3 {
@@ -1492,6 +1494,14 @@ section {
   padding: 0 20px;
 }
 
+.testimonialsdigital .testimonial-item .stars {
+  margin: 10px 0;
+}
+
+.testimonialsdigital .testimonial-item .stars i {
+  color: #ffc107;
+  margin: 0 1px;
+}
 
 /*--------------------------------------------------------------
 # Our Team Section
@@ -2073,7 +2083,7 @@ section {
   right: 0;
   width: 100%;
   height: 100%;
-  background: #D1235C;
+  background: linear-gradient(90deg, #d1235c 0%, #fbb03b 100%);
   z-index: 0;
   opacity: 0.9;
 }
