@@ -137,7 +137,7 @@
   <div class="container" data-aos="fade-up">
 
     <div class="section-header">
-      <h2>See the Results of Smart Social Growth</h2>
+      <h2>See the Results of Our Work — Smart Social Growth</h2>
     </div>
 
     <div class="slides-3 swiper" data-aos="fade-up" data-aos-delay="100">
@@ -253,15 +253,67 @@
               </div>
             </a>
           </div>
-          <!--End Icon Box -->
-          <div class="d-flex justify-content-center mt-4">
-            <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Explore Packages<span></span></a>
-          </div>          
+          <!--End Icon Box -->    
         </div>
       </div>
     </div>
   </div>
   <!-- End 2 Service Section -->
+
+  <!--  Testimonials Digital Section  -->
+  <section id="testimonialsdigital" class="testimonialsdigital">
+    <div class="container" data-aos="fade-up">
+
+    <div class="section-header">
+      <h2>See the Results of Our Work — Smart Social Growth</h2>
+    </div>
+
+    <div class="slides-digital swiper" data-aos="fade-up" data-aos-delay="100">
+      <div class="swiper-wrapper">
+
+        <div class="swiper-slide">
+          <div class="testimonial-wrap">
+            <div class="testimonial-item text-center">
+              <img src="assets/images/testimonials/liyahttt.png" class="testimonial-img mb-3" alt="Liya HT">
+              <h3>@liya.ht</h3>
+              <h4>TikTok</h4>
+              <p>
+                <i class="bi bi-quote quote-icon-left"></i>
+                Built my personal TikTok to 200k+ in one year using our daily content strategy.
+                <i class="bi bi-quote quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- End testimonial item -->
+
+        <div class="swiper-slide">
+          <div class="testimonial-wrap">
+            <div class="testimonial-item text-center">
+              <img src="assets/images/testimonials/investmentclubunic.png" class="testimonial-img mb-3" alt="Liya HT">
+              <h3>@investment.club.unic</h3>
+              <h4>Instagram</h4>
+              <div class="stars">
+                <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
+                  class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+              </div>
+              <p>
+                <i class="bi bi-quote quote-icon-left"></i>
+                Consistently high engagement in our niche investment community.                <i class="bi bi-quote quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- End testimonial item -->
+      </div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </div>
+  <div class="d-flex justify-content-center mt-4">
+      <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Explore Packages<span></span></a>
+  </div>
+</section>
+<!-- End Testimonials Digital Section -->
 
 
   <!-- About -->

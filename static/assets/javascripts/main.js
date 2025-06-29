@@ -348,4 +348,25 @@ document.addEventListener('DOMContentLoaded', () => {
      });
    }
 
+   new Swiper('.slides-digital', {
+    speed: 600,
+    loop: false,
+    autoplay: false,
+    slidesPerView: 2,
+    spaceBetween: 30,
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+      clickable: true
+    },
+    breakpoints: {
+      320: {
+        slidesPerView: 1
+      },
+      768: {
+        slidesPerView: 2
+      }
+    }
+  });
+
 });
