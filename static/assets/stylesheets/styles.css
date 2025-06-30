@@ -451,9 +451,24 @@ img:hover {
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
 --------------------------------------------------------------*/
-@media screen and (max-width: 768px) {
-  [data-aos-delay] {
-    transition-delay: 0 !important;
+/* Для экранов меньше 768px (мобильные) */
+@media (max-width: 767px) {
+  .hero .default-theme-btn-one,
+  .hero .default-theme-btn-two {
+    width: auto;        /* Отменяем полную ширину */
+    padding: 0.5rem 1rem; /* Уменьшаем внутренние отступы */
+    font-size: 0.9rem;  /* Делает текст чуть меньше */
+    margin: 0 0.25rem;  /* Промежуток между кнопками */
+  }
+
+  .hero .d-flex.justify-content-start {
+    justify-content: center;  /* Центруем обе кнопки в ряд */
+    flex-wrap: wrap;          /* Делаем перенос строк, если не влезают */
+  }
+
+  /* Чтобы фото не смещалось вниз */
+  .hero .col-lg-6 img {
+    margin-top: 1rem; /* Можно корректировать под дизайн */
   }
 }
 
