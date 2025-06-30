@@ -6,10 +6,10 @@
   <header id="header" class="header d-flex align-items-center sticked stikcy-menu">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
       <a href="index.html" class="logo d-flex align-items-center">
-        <img src="assets/images/logo.png" alt="logo">
+        <img src="assets/images/log.png" alt="logo">
       </a>
       <nav id="navbar" class="navbar">
-        <ul>
+        <!-- <ul>
           <li><a href="index.html" class="">Home</a></li>
           <li><a href="about.html" class="">About Us</a></li>
           <li class="dropdown"><a href="services.html"><span>Services</span> <i
@@ -35,9 +35,10 @@
               <li><a href="single-blog.html">Blog Details</a></li>
             </ul>
           </li>
-        </ul>
+        </ul> -->
       </nav><!-- .navbar -->
-      <a href="contact.html" class="d-none d-md-flex default-theme-btn-one">Contact Us <span></span></a>
+      <!--<a href="" class="d-none d-md-flex default-theme-btn-one">Contact Us <span></span></a>-->
+      <a class="default-theme-btn-one" href="mailto:lillu.ocean@gmail.com">Contact Us <span></span></a>
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
     </div>
@@ -57,14 +58,14 @@
             We help you build your digital product, launch your brand, and manage your social media — all in one place.
           </h2>
           <div class="social" data-aos="fade-up">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
+            <!--<a href=""><i class="bi bi-twitter-x"></i></a>-->
+            <!--<a href=""><i class="bi bi-facebook"></i></a> -->
+            <a href="https://www.linkedin.com/in/liya-khatkova-062320364"><i class="bi bi-linkedin"></i></a>
+            <a href="https://www.instagram.com/keyscalelab?igsh=MTNqa2dtMWd5eG5rbA=="><i class="bi bi-instagram"></i></a>
           </div>
           <div class="d-flex justify-content-start">
-            <a href="#contact" class="default-theme-btn-one mr-20" data-aos="fade-up">Contact Us<span></span></a>
-            <a href="#services" class="default-theme-btn-two" data-aos="fade-up">Start Your Project<span></span></a>
+            <a class="default-theme-btn-one" href="mailto:lillu.ocean@gmail.com">Contact Us<span></span></a>
+            <a href="#pricing" class="default-theme-btn-two" data-aos="fade-up">Start Your Project<span></span></a>
           </div>
         </div>
         <div class="col-lg-6 d-flex justify-content-center hero-photo">
@@ -210,7 +211,7 @@
           <div class="col-md-5 center">
             <div class="list-center-wrap" data-aos="fade-up">
               <div class="img-fluid">
-                <img src="assets/images/about.jpg" alt="icon">
+                <img src="assets/images/liyanout.svg" alt="icon">
               </div>
             </div>
           </div>
@@ -225,11 +226,11 @@
               <div class="col-lg-6 left">
                 <div class="list-wrap" data-aos="fade-up">
                   <div class="icon">
-                    <img src="assets/images/icons/icon-1.svg" alt="icon">
+                    <img src="assets/images/icons/icon-1.1.svg" alt="icon">
                   </div>
                   <div class="description">
                     <h4>Full-Service <span style="color: #c00113;">Launch</span></h4>
-                    <p>We design your profile and brand identity from day one — including positioning, and a visual style tailored.
+                    <p>We design your profile and brand identity from day one.
                     </p>
                   </div>
                 </div>
@@ -240,13 +241,13 @@
                   </div>
                   <div class="description">
                     <h4><span style="color: #c00113;">Content Plan</span></h4>
-                    <p>	Unique ideas + links for TikTok, Instagram, and YouTube (other platforms available on request).</p>
+                    <p>	Unique ideas + links for TikTok, Instagram, and YouTube.</p>
                   </div>
                 </div>
   
                 <div class="list-wrap" data-aos="fade-up">
                   <div class="icon">
-                    <img src="assets/images/icons/icon-3.svg" alt="icon">
+                    <img src="assets/images/icons/icon-1.svg" alt="icon">
                   </div>
                   <div class="description">
                     <h4>Publishing <span style="color: #c00113;">Management</span></h4>
@@ -260,7 +261,7 @@
               <div class="col-lg-6 right">
                 <div class="list-wrap" data-aos="fade-up">
                   <div class="icon">
-                    <img src="assets/images/icons/icon-4.svg" alt="icon">
+                    <img src="assets/images/icons/icon-3.svg" alt="icon">
                   </div>
                   <div class="description">
                     <h4><span style="color: #c00113;">Filming</span> Instructions</h4>
@@ -294,7 +295,7 @@
         </div>
       </div>
       <div class="d-flex justify-content-center mt-4">
-        <a href="#services" class="default-theme-btn-two" data-aos="fade-up">View Pricing Plans<span></span></a>
+        <a href="#pricing" class="default-theme-btn-two" data-aos="fade-up">Let’s Build Yours → View Plans<span></span></a>
     </div>
     </section>
     <!-- Featured -->
@@ -380,7 +381,7 @@
                   class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
               </div>              <p>
                 <i class="bi bi-quote quote-icon-left"></i>
-                A clean, 2-page website with a fully integrated payment system delivered in just 3 days.                <i class="bi bi-quote quote-icon-right"></i>
+                A clean, 3-page website with a fully integrated payment system delivered in just 3 days.                <i class="bi bi-quote quote-icon-right"></i>
               </p>
             </div>
           </div>
@@ -398,7 +399,7 @@
               </div>
               <p>
                 <i class="bi bi-quote quote-icon-left"></i>
-                From design to full content writing. The 6-page site was built and launched in just one week.</p>
+                From design to full content writing. The 8-page site was built and launched in just one week.</p>
             </div>
           </div>
         </div>
@@ -408,7 +409,7 @@
     </div>
   </div>
   <div class="d-flex justify-content-center mt-4">
-      <a href="#services" class="default-theme-btn-two" data-aos="fade-up">See Full Services<span></span></a>
+      <a href="#pricing" class="default-theme-btn-two" data-aos="fade-up">See How We Can Full Your Services<span></span></a>
   </div>
 </section>
 <!-- End Testimonials Digital Section -->
@@ -422,12 +423,93 @@
           <!-- <p>We pride ourselves with our ability to perform and deliver results. Use the form below to discuss your project needs with our team, we will get back asap</p>-->
         </div>
         <div class="col-lg-3 text-right">
-          <a class="default-theme-btn-one" href="mailto:info@example.com">Conatct Us <span></span></a>
+          <a class="default-theme-btn-one" href="mailto:lillu.ocean@gmail.com">Conatct Us <span></span></a>
         </div>
       </div>
     </div>
   </section>
   <!-- End Call To Action Section -->
+
+<!-- Pricing Plans Section -->
+<section id="pricing" class="section">
+  <div class="container text-center">
+    <div class="section-header" data-aos="fade-up">
+      <h2>Social Media Management Plans</h2>
+    </div>    
+    <div class="row g-4">
+
+      <!-- Plan 1 -->
+      <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm p-4 h-100">
+          <h4 class="text-danger mb-3"><span class="price-tag">€500</span></h4>
+          <ul class="list-unstyled text-start">
+            <li>✔ 30 videos per month with captions & audio</li>
+            <li>✔ Content plan with ideas & links</li>
+            <li>✔ Personal brand strategy</li>
+            <li>✔ Profile design & setup</li>
+            <li>✔ Scripting, Editing, Uploading</li>
+            <li>✔ Posting management</li>
+            <li>✔ You choose one main platform we actively manage</li>
+            <li>✔ Monthly reporting & strategy</li>
+          </ul>
+          <a href="#" class="btn btn-danger mt-3 w-100 fw-bold">Purchase</a>
+        </div>
+      </div>
+      <!-- Plan 3 -->
+      <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm p-4 h-100">
+          <h4 class="text-danger mb-3"><span class="price-tag">€1000</span></h4>
+          <ul class="list-unstyled text-start">
+            <ul class="list-unstyled text-start">
+              <li>✔ 60 videos per month with captions & audio</li>
+              <li>✔ Content plan with ideas & links</li>
+              <li>✔ Personal brand strategy</li>
+              <li>✔ Profile design & setup</li>
+              <li>✔ Scripting, Editing, Uploading</li>
+              <li>✔ Posting management</li>
+              <li>✔ You choose one main platform we actively manage</li>
+              <li>✔ Monthly reporting & strategy</li>
+            </ul>
+          <a href="#" class="btn btn-danger mt-3 w-100 fw-bold">Purchase</a>
+        </div>
+      </div>
+
+            <!-- Plan 2 -->
+            <div class="col-lg-3 col-md-6">
+              <div class="card shadow-sm p-4 h-100">
+                <h4 class="text-danger mb-3"><span class="price-tag">€600</span></h4>
+                <ul class="list-unstyled text-start">
+                  <li>✔ All in €500 plan</li>
+                  <li>✔ Auto cross-posting to a second platform of your choice</li>
+                  <li>✔ Advanced audience relationship building</li>
+                  <li>✔ Comment & DM management</li>
+                  <li>✔ Weekly performance report</li>
+                  <li>✔ Same-day brief updates on request</li>
+                </ul>
+                <a href="#" class="btn btn-danger mt-3 w-100 fw-bold">Purchase</a>
+              </div>
+            </div>
+      
+      <!-- Plan 4 -->
+      <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm p-4 h-100">
+          <h4 class="text-danger mb-3"><span class="price-tag">€1100</span></h4>
+          <ul class="list-unstyled text-start">
+            <li>✔ All in €1000 plan</li>
+            <li>✔ Auto cross-posting to a second platform of your choice</li>
+            <li>✔ Advanced audience relationship building</li>
+            <li>✔ Comment & DM management</li>
+            <li>✔ Weekly performance report</li>
+            <li>✔ Same-day brief updates on request</li>
+          </ul>
+          <a href="#" class="btn btn-danger mt-3 w-100 fw-bold">Purchase</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- End Pricing Plans Section -->
 
   <!-- About
   <section id="about" class="about">
@@ -846,19 +928,16 @@
             <div class="footer-widget">
               <div class="footer-logo">
                 <a href="#" class="logo d-flex align-items-center">
-                  <img src="assets/images/logo.png" alt="logo">
+                  <img src="assets/images/log.png" alt="logo">
                 </a>
               </div>
               <div class="footer-text">
-                <p>At RedTheme we are passionate about providing businesses with the IT solutions they need to succeed
-                  in today's competitive marketplace.</p>
+                <p>Full-Service Business Development and digital growth — From Product Creation to Social Media.</p>
               </div>
               <div class="footer-social-icon">
                 <span>Follow us</span>
-                <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-                <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/liya-khatkova-062320364"><i class="bi bi-linkedin"></i></a>
+                <a href="https://www.instagram.com/keyscalelab?igsh=MTNqa2dtMWd5eG5rbA=="><i class="bi bi-instagram"></i></a>
               </div>
             </div>
           </div>
@@ -869,14 +948,14 @@
                 <h3>Services</h3>
               </div>
               <ul class="list">
-                <li><a href="single-service.html">Web Design</a></li>
+                  <!--<li><a href="single-service.html">Web Design</a></li>
                 <li><a href="single-service.html">App Developemnt</a></li>
                 <li><a href="single-service.html">Cloud Services</a></li>
                 <li><a href="single-service.html">Domain And Hosting</a></li>
                 <li><a href="single-service.html">Seo Optimization</a></li>
                 <li><a href="single-service.html">Social Media</a></li>
                 <li><a href="single-service.html">Data Secure</a></li>
-                <li><a href="single-service.html">Web Hosting</a></li>
+                <li><a href="single-service.html">Web Hosting</a></li> -->
               </ul>
             </div>
           </div>
@@ -886,14 +965,14 @@
                 <h3>Information</h3>
               </div>
               <ul class="list">
-                <li><a href="about.html">About</a></li>
+                <!--<li><a href="about.html">About</a></li>
                 <li><a href="pricing.html">Pricing</a></li>
                 <li><a href="faqs.html">FAQs</a></li>
                 <li><a href="team.html">Team</a></li>
                 <li><a href="blogs.html">Blogs</a></li>
                 <li><a href="single-blog.html">Single Blog</a></li>
                 <li><a href="page.html">Terms &amp; Conditions</a></li>
-                <li><a href="page.html">Sample Page</a></li>
+                <li><a href="page.html">Sample Page</a></li>-->
               </ul>
             </div>
           </div>
@@ -903,9 +982,9 @@
                 <h3>Contacts</h3>
               </div>
               <div class="footer-text">
-                <p><i class="bi bi-geo-alt-fill mr-15"></i> 101 West Town , PBO 12345, United States</p>
-                <p><i class="bi bi-telephone-inbound-fill mr-15"></i> +1 1234 56 789</p>
-                <p><i class="bi bi-envelope-fill mr-15"></i> contact@example.com</p>
+                <p><i class="bi bi-geo-alt-fill mr-15"></i> 32 Kyriakou Matsi, Nicosia, Cyprus</p>
+                <p><i class="bi bi-telephone-inbound-fill mr-15"></i> +375-94-48-37-18</p>
+                <p><i class="bi bi-envelope-fill mr-15"></i> lillu.ocean@gmail.com</p>
               </div>
             </div>
             <div class="footer-widget">
@@ -913,7 +992,7 @@
                 <h3>Newsletter</h3>
               </div>
               <div class="footer-text mb-25">
-                <p>Don't miss to subscribe to our new feeds, kindly fill the form below.</p>
+                <p>Subscribe to our new feeds, kindly fill the form below.</p>
               </div>
               <div class="subscribe-form">
                 <form action="#">
@@ -927,8 +1006,7 @@
         <div class="row">
           <div class="col-xl-12 col-lg-12 text-center">
             <div class="copyright-text">
-              <p>RedTheme<span>.</span> © 2025 - Designed by <a
-                  href="https://www.templatemonster.com/authors/zrthemes/">ZRTHEMES</a></p>
+              <p>KeyScaleLab<span>.</span> © 2025</p>
             </div>
           </div>
         </div>
