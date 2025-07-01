@@ -185,7 +185,7 @@ img:hover {
 }
 .breadcrumbs .page-header::before {
     content: '';
-    background: #D1235C;
+    background: linear-gradient(135deg, #D1235C 0%, #FFD04D 100%);
     position: absolute;
     left: 0;
     top: 0;
