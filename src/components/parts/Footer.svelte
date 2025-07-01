@@ -52,10 +52,10 @@
                 <h3>Information</h3>
               </div>
               <ul class="list">
-                <!--<li><a href="about.html">About</a></li>
-                  <li><a href="pricing.html">Pricing</a></li>
+                <li><a href="/about">About</a></li>
+                <li><a href="/team">Team</a></li>
+                <!--<li><a href="pricing.html">Pricing</a></li>
                   <li><a href="faqs.html">FAQs</a></li>
-                  <li><a href="team.html">Team</a></li>
                   <li><a href="blogs.html">Blogs</a></li>
                   <li><a href="single-blog.html">Single Blog</a></li>
                   <li><a href="page.html">Terms &amp; Conditions</a></li>

@@ -13,8 +13,12 @@
       <div class="row d-flex justify-content-start">
         <div class="col-lg-8 text-left">
           <h2>About Us</h2>
+          <p><strong>
+          KeyScale Lab — fast, clear, and effective turnkey digital solutions with built-in scale across social platforms.
+          </strong>
+          </p>
           <p>
-            We're Passionate About Helping Businesses Thrive with Technology
+          The focus is on structured packaging, launch, and growth through digital tools. Minimal time — maximum impact. Branded assets, a payment-ready website, a content strategy, and a clear scale-up point — all in one ecosystem.
           </p>
         </div>
       </div>
@@ -40,14 +44,18 @@
         <!-- start  skills -->
         <div class="col-md-6 center">
           <p>
-            At <span class="big-text">RedTheme</span>
+            At <span class="big-text">KeyScale Lab</span>, we don’t just create visuals or social media posts — 
             <span class="small-text"
-              >we are passionate about providing businesses with the IT
-              solutions they need to succeed</span
-            > in today's competitive marketplace. We offer a comprehensive suite
-            of services, from IT infrastructure and security to cloud computing and
-            business applications, all delivered with the expertise and dedication
-            you deserve.
+              >we build complete systems for digital growth</span
+            >. From product packaging and websites with integrated payment systems delivered in just a few days, to launching strategic content funnels — everything we do is focused on clear results: increasing engagement, sales, and brand visibility.
+          </p>
+          <p>
+            We work quickly, precisely, and transparently. Every step — from concept to execution — is guided by strategy, with clear goals and measurable outcomes. Our process is built around structured planning, relevant metrics, and predictable results.
+          </p>
+          <p>
+            <span class="small-text"
+              >We can join your project at any stage</span
+            > — strengthening an existing strategy or building everything from scratch. Our goal is to turn your digital presence into a tool for real business growth.
           </p>
           <div data-aos="fade-up">
             <!-- <ul id="skills">
@@ -103,25 +111,25 @@
   <!-- About -->
 
   <!-- Featured -->
-  <section id="featured" class="featured">
+  <!-- <section id="featured" class="featured">
     <div class="container">
       <div class="section-header" data-aos="fade-up">
         <h2>Why Choose Us?</h2>
         <p>Your Business's IT Success is Our Driving Force</p>
       </div>
-      <div class="row">
+      <div class="row">-->
         <!-- start  skills -->
-        <div class="col-md-5 center">
+         <!-- <div class="col-md-5 center">
           <div class="list-center-wrap" data-aos="fade-up">
             <div class="img-fluid">
               <img src="assets/images/about.jpg" alt="icon" />
             </div>
           </div>
-        </div>
+        </div>-->
         <!-- end  skills -->
 
         <!-- start  left -->
-        <div class="col-md-7 left">
+         <!-- <div class="col-md-7 left">
           <div class="row">
             <div class="col-md-12">
               <p>
@@ -176,11 +184,11 @@
                   </p>
                 </div>
               </div>
-            </div>
+            </div>-->
             <!-- end  left -->
 
             <!-- start  right -->
-            <div class="col-lg-6 right">
+             <!--<div class="col-lg-6 right">
               <div class="list-wrap" data-aos="fade-up">
                 <div class="icon">
                   <img src="assets/images/icons/icon-4.svg" alt="icon" />
@@ -220,15 +228,15 @@
                   </p>
                 </div>
               </div>
-            </div>
+            </div>-->
             <!-- end  right -->
-          </div>
+          <!-- </div>
         </div>
       </div>
     </div>
-  </section>
+  </section>-->
   <!-- Featured -->
-</div>
+  </div>
 <!-- Page Main -->
 
 <Footer />
