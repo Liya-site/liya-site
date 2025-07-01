@@ -41,6 +41,7 @@
   <section id="about">
     <div class="container">
       <div class="row">
+        
         <!-- start  skills -->
         <div class="col-md-6 center">
           <p>
@@ -93,8 +94,8 @@
                 </li>
               </ul> -->
           </div>
-          <a href="#contact" class="default-theme-btn-two"
-            >Contact Us <span></span></a
+          <a href="/team" class="default-theme-btn-two"
+            >Our Team<span></span></a
           >
         </div>
         <!-- end  skills -->
@@ -102,9 +103,9 @@
         <!-- start  left -->
         <div class="col-md-6">
           <div class="list-center-wrap">
-            <img src="assets/images/skills.jpg" alt="icon" />
+            <img src="assets/images/aboutk.svg" alt="icon" />
           </div>
-        </div>
+        </div>     
       </div>
     </div>
   </section>

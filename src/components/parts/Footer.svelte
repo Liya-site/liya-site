@@ -32,9 +32,10 @@
           <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
             <div class="service-widget footer-widget">
               <div class="footer-widget-heading">
-                <h3>Services</h3>
+                <h3>Information</h3>
               </div>
               <ul class="list">
+                <li><a href="assets/images/PublicOfferAgreementforDigitalServices.pdf">Public Offer Agreement</a></li>
                 <!--<li><a href="single-service.html">Web Design</a></li>
                   <li><a href="single-service.html">App Developemnt</a></li>
                   <li><a href="single-service.html">Cloud Services</a></li>
@@ -49,7 +50,7 @@
           <div class="col-lg-2 col-md-6 col-sm-12 footer-column">
             <div class="service-widget footer-widget">
               <div class="footer-widget-heading">
-                <h3>Information</h3>
+                <h3>Services</h3>
               </div>
               <ul class="list">
                 <li><a href="/about">About</a></li>

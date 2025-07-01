@@ -466,7 +466,7 @@
     </div>
   </div>
   <div class="d-flex justify-content-center mt-4">
-    <a href="#pricing" class="default-theme-btn-two" data-aos="fade-up"
+    <a href="#product-plans" class="default-theme-btn-two" data-aos="fade-up"
       >See How We Can Full Your Services<span></span></a
     >
   </div>
@@ -571,6 +571,7 @@
     </div>
   </div>
 </section> -->
+
 <!-- Pricing Plans Section -->
 <section id="pricing" class="section">
   <div class="container text-center">
@@ -581,6 +582,7 @@
       <!-- Plan 1 -->
       <div class="col-lg-3 col-md-6">
         <div class="card shadow-sm p-4 h-100">
+          <h5 class="text-danger fw-bold mb-2">Starter Scale</h5>
           <h4 class="text-danger mb-3"><span class="price-tag">€500</span></h4>
           <ul class="list-unstyled text-start">
             <li>✔ 30 videos per month with captions & audio</li>
@@ -598,6 +600,7 @@
       <!-- Plan 3 -->
       <div class="col-lg-3 col-md-6">
         <div class="card shadow-sm p-4 h-100">
+          <h5 class="text-danger fw-bold mb-2">Rapid Growth</h5>
           <h4 class="text-danger mb-3"><span class="price-tag">€1000</span></h4>
           <ul class="list-unstyled text-start">
             <ul class="list-unstyled text-start">
@@ -618,6 +621,7 @@
       <!-- Plan 2 -->
       <div class="col-lg-3 col-md-6">
         <div class="card shadow-sm p-4 h-100">
+          <h5 class="text-danger fw-bold mb-2">Multi-Platform Scale</h5>
           <h4 class="text-danger mb-3"><span class="price-tag">€600</span></h4>
           <ul class="list-unstyled text-start">
             <li>✔ All in €500 plan</li>
@@ -634,6 +638,7 @@
       <!-- Plan 4 -->
       <div class="col-lg-3 col-md-6">
         <div class="card shadow-sm p-4 h-100">
+          <h5 class="text-danger fw-bold mb-2">Full Impact</h5>
           <h4 class="text-danger mb-3"><span class="price-tag">€1100</span></h4>
           <ul class="list-unstyled text-start">
             <li>✔ All in €1000 plan</li>
@@ -650,6 +655,81 @@
   </div>
 </section>
 <!-- End Pricing Plans Section -->
+
+<!-- Pricing Plans Section 2 -->
+<section id="product-plans" class="section">
+  <div class="container text-center">
+    <div class="section-header" data-aos="fade-up">
+      <h2>Digital Solutions Plans</h2>
+    </div>
+    <div class="row g-4">
+      <!-- Plan 1 -->
+      <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm p-4 h-100">
+          <h5 class="text-danger fw-bold mb-2">Fast Launch</h5>
+          <h4 class="text-danger mb-3"><span class="price-tag">€500</span></h4>
+          <ul class="list-unstyled text-start">
+            <li>✔ HTML + Svelte website</li>
+            <li>✔ Delivered within 3 days</li>
+            <li>✔ Custom product copy + design packaging</li>
+            <li>✔ Initial strategy & action plan</li>
+          </ul>
+          <a href="#" class="btn btn-danger mt-3 w-100 fw-bold">Select Plan</a>
+        </div>
+      </div>
+
+      <!-- Plan 2 -->
+      <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm p-4 h-100">
+          <h5 class="text-danger fw-bold mb-2">Launch Pro</h5>
+          <h4 class="text-danger mb-3"><span class="price-tag">€1 250</span></h4>
+          <ul class="list-unstyled text-start">
+            <li>✔ All in €500 plan</li>
+            <li>✔ Delivered within 4 days</li>
+            <li>✔ Client registration form</li>
+            <li>✔ Basic client database setup</li>
+            <li>✔ Full setup checklist & support</li>
+          </ul>
+          <a href="#" class="btn btn-danger mt-3 w-100 fw-bold">Select Plan</a>
+        </div>
+      </div>
+
+      <!-- Plan 3 -->
+      <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm p-4 h-100">
+          <h5 class="text-danger fw-bold mb-2">Payment Ready</h5>
+          <h4 class="text-danger mb-3"><span class="price-tag">€2 500</span></h4>
+          <ul class="list-unstyled text-start">
+            <li>✔ All in €1250 plan</li>
+            <li>✔ Delivered within 6 days</li>
+            <li>✔ Integrated PayPal + Crypto payments</li>
+            <li>✔ Multi-currency support</li>
+            <li>✔ Secure checkout flow</li>
+          </ul>
+          <a href="#" class="btn btn-danger mt-3 w-100 fw-bold">Select Plan</a>
+        </div>
+      </div>
+
+      <!-- Plan 4 -->
+      <div class="col-lg-3 col-md-6">
+        <div class="card shadow-sm p-4 h-100">
+          <h5 class="text-danger fw-bold mb-2">AI Powered Suite</h5>
+          <h4 class="text-danger mb-3"><span class="price-tag">€4 000</span></h4>
+          <ul class="list-unstyled text-start">
+            <li>✔ All in €2500 plan</li>
+            <li>✔ Delivered within 7 days</li>
+            <li>✔ Built-in AI advisor / dispatcher</li>
+            <li>✔ Automated client management</li>
+            <li>✔ Full CRM-style customer database</li>
+          </ul>
+          <a href="#" class="btn btn-danger mt-3 w-100 fw-bold">Select Plan</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- End Pricing Plans Section 2 -->
 
 <!-- About
   <section id="about" class="about">

@@ -86,6 +86,20 @@
             </div>
           </div><!-- End Team Member -->
 
+          <div class="col-xl-3 col-md-6 d-flex aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+            <div class="member">
+              <img src="assets/images/team/team-nastya.png" class="img-fluid" alt="">
+              <h4>Anastasia</h4>
+              <span>Video Editor</span>
+              <div class="social">
+                <a href="https://www.instagram.com/just__human__?igsh=aml5dnJnZ2pzMW1v"><i class="bi bi-instagram"></i></a>
+                <a href="https://t.me/goodmushroom"><i class="bi bi-telegram"></i></a>
+                <a href="https://www.linkedin.com/in/anastasiia-smirnova-9b0200333/"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+        
         </div>
 
       </div>
